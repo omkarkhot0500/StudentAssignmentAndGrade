@@ -6,7 +6,7 @@
 
 Academic tool that helps students to keep track of classes, grades, and assignments in an easy, no non-sense way.
 
-[live-heroku](https://testing-portal-api.herokuapp.com/)
+
 
 ![Image of main user page](./client/public/main.png)
 
